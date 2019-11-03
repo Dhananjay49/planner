@@ -1,0 +1,51 @@
+{
+  "name": "Zen",
+  "description": "If you chase two rabbits, you catch none.",
+  "tasks": [
+    {
+      "name": "Acads",
+      "description": "Padhai ki baatein",
+      "scheduled": "2019-12-31",
+      "subtasks": []
+    },
+    {
+      "name": "Self improvement",
+      "description": "Reading list, blogs, exercise, etc.",
+      "scheduled": "2019-12-30",
+      "subtasks": [
+        {
+          "name": "Exercise",
+          "description": "someday?",
+          "scheduled": "2021-2-29"
+        },
+        {
+          "name": "Reading list",
+          "description": "My bucket list:\nHear the Wind Sing\nThe Fountainhead\nAtlas Shrugged\nA prisoner of birth",
+          "scheduled": null
+        }
+      ]},
+    {
+      "name": "Research",
+      "description": "Pet projects",
+      "scheduled": null,
+      "subtasks": []
+    },
+    {
+      "name": "Hobbies",
+      "description": "<3",
+      "scheduled": null,
+      "subtasks": [
+        {
+          "name": "Origami",
+          "description": "cranes and tigers.",
+          "scheduled": "2019-10-29"
+        },
+        {
+          "name": "Drum practice!",
+          "description": "Aim:\nHallowed be thy name,\nAcid Rain (LTE)",
+          "scheduled": "2019-10-29"
+        }
+      ]
+    }
+  ]
+}
